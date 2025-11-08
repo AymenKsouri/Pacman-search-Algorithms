@@ -1,0 +1,2 @@
+# Works with Python 2.6 or 2.7
+# No external libraries are required — runs with standard Python modules.
